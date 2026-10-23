@@ -1,0 +1,202 @@
+{
+  "version": 1,
+  "login": "ForGetMyAlias",
+  "seed": "#A67B5B",
+  "seedFromAvatar": false,
+  "scheme": "neutral",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "",
+    "subtitle": "Backend developer.\nGo, Python, Rust, small self-hosted services and Linux tools.",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Russia"
+      },
+      {
+        "icon": "code",
+        "label": "Go · Python · Rust"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "code",
+        "label": "Backend: APIs and self-hosted services"
+      },
+      {
+        "icon": "terminal",
+        "label": "Go without dependencies, async Python"
+      },
+      {
+        "icon": "terminal",
+        "label": "Rust: system and security tools for Linux"
+      },
+      {
+        "icon": "person",
+        "label": "Open to work"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:go",
+            "label": "Go"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:rust",
+            "label": "Rust"
+          }
+        ]
+      },
+      {
+        "title": "Libraries",
+        "items": [
+          {
+            "icon": "brand:telegram",
+            "label": "aiogram"
+          },
+          {
+            "icon": "brand:aiohttp",
+            "label": "aiohttp"
+          },
+          {
+            "icon": "brand:litestar",
+            "label": "Litestar"
+          },
+          {
+            "icon": "database",
+            "label": "SQLAlchemy"
+          },
+          {
+            "icon": "brand:pydantic",
+            "label": "Pydantic"
+          },
+          {
+            "icon": "schedule",
+            "label": "APScheduler"
+          }
+        ]
+      },
+      {
+        "title": "Also",
+        "items": [
+          {
+            "icon": "brand:docker",
+            "label": "Docker"
+          },
+          {
+            "icon": "brand:postgresql",
+            "label": "PostgreSQL"
+          },
+          {
+            "icon": "brand:sqlite",
+            "label": "SQLite"
+          },
+          {
+            "icon": "brand:redis",
+            "label": "Redis"
+          },
+          {
+            "icon": "brand:linux",
+            "label": "Linux"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [
+      "trollSS",
+      "ttlbox",
+      "auth-api",
+      "UptimeMonitor"
+    ],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/forgetmyalias"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/users/1105557313651224648"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "https://github.com/ForGetMyAlias?tab=repositories",
+        "style": "filled"
+      }
+    ]
+  }
+}
