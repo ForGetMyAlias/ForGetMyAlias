@@ -21,7 +21,7 @@
   "hero": {
     "greeting": "Hi, I'm",
     "name": "",
-    "subtitle": "Backend developer.\nGo, Python, Rust, small self-hosted services and Linux tools.",
+    "subtitle": "Backend developer.\nGo, Python, Rust, small self-hosted services, Linux tools and ports.",
     "typing": true,
     "avatarShape": "cookie12",
     "chips": [
@@ -31,7 +31,7 @@
       },
       {
         "icon": "code",
-        "label": "Go · Python · Rust"
+        "label": "Go · Python · Rust · C++"
       }
     ]
   },
@@ -49,6 +49,10 @@
       {
         "icon": "terminal",
         "label": "Rust: system and security tools for Linux"
+      },
+      {
+        "icon": "terminal",
+        "label": "C++/Qt: Linux port of a Telegram Desktop fork (exDesktopLinux)"
       },
       {
         "icon": "person",
@@ -73,6 +77,10 @@
           {
             "icon": "brand:rust",
             "label": "Rust"
+          },
+          {
+            "icon": "code",
+            "label": "C++"
           }
         ]
       },
@@ -102,6 +110,10 @@
           {
             "icon": "schedule",
             "label": "APScheduler"
+          },
+          {
+            "icon": "code",
+            "label": "Qt"
           }
         ]
       },
@@ -148,6 +160,7 @@
   "projects": {
     "source": "pinned",
     "repos": [
+      "exDesktopLinux",
       "trollSS",
       "ttlbox",
       "auth-api",
