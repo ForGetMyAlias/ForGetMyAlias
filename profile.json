@@ -179,7 +179,10 @@
     "calendar": "Last 21 days",
     "weekdays": "SMTWTFS",
     "languages": "Languages across my repositories",
-    "showLanguages": true
+    "showLanguages": true,
+    "includeForks": {
+      "exDesktopLinux": 40000
+    }
   },
   "streak": {
     "title": "Streak",
