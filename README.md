@@ -8,9 +8,11 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/ForGetMyAlias/UptimeMonitor"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-uptimemonitor-dark.svg"><img src="assets/project-uptimemonitor-light.svg" width="49%" alt="UptimeMonitor"></picture></a>&nbsp;<a href="https://github.com/ForGetMyAlias/auth-api"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-auth-api-dark.svg"><img src="assets/project-auth-api-light.svg" width="49%" alt="auth-api"></picture></a>
+<a href="https://github.com/ForGetMyAlias/exDesktopLinux"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-exdesktoplinux-dark.svg"><img src="assets/project-exdesktoplinux-light.svg" width="49%" alt="exDesktopLinux"></picture></a>&nbsp;<a href="https://github.com/ForGetMyAlias/trollSS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-trollss-dark.svg"><img src="assets/project-trollss-light.svg" width="49%" alt="trollSS"></picture></a>
 
-<a href="https://github.com/ForGetMyAlias/ttlbox"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-ttlbox-dark.svg"><img src="assets/project-ttlbox-light.svg" width="49%" alt="ttlbox"></picture></a>&nbsp;<a href="https://github.com/ForGetMyAlias/trollSS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-trollss-dark.svg"><img src="assets/project-trollss-light.svg" width="49%" alt="trollSS"></picture></a>
+<a href="https://github.com/ForGetMyAlias/ttlbox"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-ttlbox-dark.svg"><img src="assets/project-ttlbox-light.svg" width="49%" alt="ttlbox"></picture></a>&nbsp;<a href="https://github.com/ForGetMyAlias/auth-api"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-auth-api-dark.svg"><img src="assets/project-auth-api-light.svg" width="49%" alt="auth-api"></picture></a>
+
+<a href="https://github.com/ForGetMyAlias/UptimeMonitor"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-uptimemonitor-dark.svg"><img src="assets/project-uptimemonitor-light.svg" width="49%" alt="UptimeMonitor"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
