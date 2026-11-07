@@ -1,8 +1,8 @@
 {
- "key": "74c75a37",
+ "key": "4a89caa0",
  "stars": 4,
  "contributions": 19,
- "repos": 7,
+ "repos": 6,
  "followers": 1,
  "languages": [
   [
@@ -215,15 +215,6 @@
    "fork": false,
    "stars": 1,
    "language": "Python",
-   "topics": []
-  },
-  {
-   "name": "laendle-releases",
-   "url": "https://github.com/ForGetMyAlias/laendle-releases",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": null,
    "topics": []
   },
   {
