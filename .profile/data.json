@@ -1,5 +1,5 @@
 {
- "key": "ed84cee5",
+ "key": "3025ca84",
  "stars": 4,
  "contributions": 18,
  "repos": 6,
@@ -113,9 +113,13 @@
    {
     "c": 0,
     "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
     "today": true
    },
-   null,
    null,
    null,
    null,
